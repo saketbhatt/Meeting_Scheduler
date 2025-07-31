@@ -3,4 +3,4 @@
 
 **Scope:**
 - Search available rooms
-- Book a room
+- Book an available room
